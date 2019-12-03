@@ -1,0 +1,52 @@
+---
+title: "git_01"
+author: "Cortajha Hunter"
+date: "Fall semester"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Build a Poem with commits to different branches
+Our project will be done using a sequence of save and commits and branch actions.
+<!-- Do not modify or change any text in "!--" bracketed areas such as this --- these are instructions to
+you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
+
+## First Verse 
+<!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+
+'Twas brillig, and the slithy toves  
+Did gyre and gimble in the wabe:  
+All mimsy were the borogoves,  
+And the mome raths outgrabe.  
+'Beware the Jabberwock, my son!  
+
+## Second Verse
+<!--Put the first five lines of a poem by Robert Frost here!-->
+
+Love at the lip was touch  
+As sweet as I could bear;  
+And once that seemed too much;  
+I lived on air  
+That crossed me from sweet things,  
+
+
+## Third Verse
+<!--Put the first two verses of The Walrus and the Carpenter here!-->
+
+"The sun was shining on the sea,  
+      Shining with all his might:  
+
+## Last Verse
+<!--Put a short poem of your choice 8-20 lines,here!-->
+
+He was so proud of his little girl.  
+It was her very first day of school.  
+He walked with her to school that day,  
+And she held his hand all the way.  
+They walked together quiet and sad,  
+A little girl and her loving dad.  
+Into the school her father led,  
+But he almost cried when she said,  
+"Daddy, Daddy, please don't go.  
